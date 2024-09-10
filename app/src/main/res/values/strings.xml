@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="begging"><font fgcolor="#808080">Do you have an account?</font> <font fgcolor="#007BFF">Login</font></string>
+</resources>
